@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a drag and drop todo list](https://ronniiii-i.github.io/projects/todo-app-main/)
 
-- 🌱 I’m currently learning **Nodejs and C**
+- 🌱 I’m currently learning **Nodejs, C and React**
 
 - 👨‍💻 All of my projects are available at [ronniiii.github.io](ronniiii.github.io)
 
