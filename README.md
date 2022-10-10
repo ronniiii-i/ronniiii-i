@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/ronniiii_i" target="blank"><img src="https://img.shields.io/twitter/follow/ronniiii_i?logo=twitter&style=for-the-badge" alt="ronniiii_i" /></a> </p>
 
-- 🔭 I’m currently working on [a drag and drop todo list](https://ronniiii-i.github.io/projects/todo-app-main/)
-
 - 🌱 I’m currently learning **Reactjs and C**
 
 - 👨‍💻 All of my projects are available at [ronniiii.github.io](ronniiii.github.io)
