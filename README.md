@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [an online store](https://github.com/ronniiii-i/jewellry_store)
 
-- 🌱 I’m currently learning **Reactjs and C**
+- 🌱 I’m currently learning **Reactjs and Python**
 
 - 👨‍💻 All of my projects are available at [ronniiii.github.io](ronniiii.github.io)
 
