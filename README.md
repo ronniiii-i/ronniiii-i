@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ronniiii_i" target="blank"><img src="https://img.shields.io/twitter/follow/ronniiii_i?logo=twitter&style=for-the-badge" alt="ronniiii_i" /></a> </p>
 
-- 🔭 I’m currently working on [an online store](https://github.com/ronniiii-i/jewellry_store)
+<!-- - 🔭 I’m currently working on [an online store](https://github.com/ronniiii-i/jewellry_store) -->
 
 - 🌱 I’m currently learning **Reactjs and Python**
 
-- 👨‍💻 All of my projects are available at [ronniiii.github.io](ronniiii.github.io)
+- 👨‍💻 All of my projects are available at [https://roni-egbu.vercel.app/](https://roni-egbu.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
