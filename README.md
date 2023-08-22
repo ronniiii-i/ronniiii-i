@@ -9,9 +9,9 @@
 
 <!-- - 🔭 I’m currently working on [an online store](https://github.com/ronniiii-i/jewellry_store) -->
 
-- 🌱 I’m currently learning **Reactjs and Python**
+<!-- - 🌱 I’m currently learning **Reactjs and Python** -->
 
-- 👨‍💻 All of my projects are available at [https://roni-egbu.vercel.app/](https://roni-egbu.vercel.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://roni-egbu.vercel.app/](https://roni-egbu.vercel.app/) -->
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
