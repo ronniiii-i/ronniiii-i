@@ -13,7 +13,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://roni-egbu.vercel.app/](https://roni-egbu.vercel.app/) -->
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+<!-- - 💬 Ask me about **HTML, CSS and JavaScript** -->
 
 - 📫 How to reach me **ronniiiip@gmail.com**
 
