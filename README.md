@@ -67,13 +67,11 @@
 
 ###
 
-# My GitHub Activity Tracker
-
 Here's a summary of my recent GitHub contributions:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronniiii-i/git-tracker/main/tracker-dark.svg">
-  <img src="https://raw.githubusercontent.com/ronniiii-i/git-tracker/main/tracker-light.svg" alt="GitHub Activity Tracker" width="350">
+  <img src="https://raw.githubusercontent.com/ronniiii-i/git-tracker/main/tracker-light.svg" alt="GitHub Activity Tracker" width="6000">
 </picture>
 
 
