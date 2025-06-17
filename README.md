@@ -66,3 +66,7 @@
 </div>
 
 ###
+
+![GitHub Activity](https://raw.githubusercontent.com/ronniiii-i/git-tracker/main/tracker.svg)
+
+###
