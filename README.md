@@ -61,12 +61,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronniiii-i&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 Here's a summary of my recent GitHub contributions:
 
 <picture>
@@ -74,5 +68,11 @@ Here's a summary of my recent GitHub contributions:
   <img src="https://raw.githubusercontent.com/ronniiii-i/git-tracker/main/tracker-light.svg" alt="GitHub Activity Tracker" width="6000">
 </picture>
 
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronniiii-i&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
