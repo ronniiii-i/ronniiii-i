@@ -1,78 +1,73 @@
-<h2 align="left">Hey!👋🏾 I'm Roni and I'm a frontend developer</h2>
+<div align="center">
 
-###
+# Princess Roni Egbu
+
+### Full-Stack Developer: React, Next.js, Node.js, NestJS
+
+Building web products from the database to the interface. Based in Lagos, Nigeria.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-roniegbu.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://roniegbu.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Princess%20Egbu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princess-roni-egbu)
+[![Email](https://img.shields.io/badge/Email-ronniiiip%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronniiiip@gmail.com)
+
+![Open to work](https://img.shields.io/badge/Open%20to%20work-Frontend%20%7C%20Backend%20%7C%20Full--Stack-16A34A?style=flat-square)
+![Availability](https://img.shields.io/badge/Availability-Immediate-2563EB?style=flat-square)
+
+</div>
+
+---
+
+## About
+
+I'm a full-stack developer with a B.Sc. in Software Engineering from Babcock University (2026) and over two years of professional and freelance experience. I like interfaces that match the design and feel easy to use, and backends that are tested, documented, and clear about their trade-offs.
+
+**Right now I'm:**
+
+- Developing **ClaspCRM** into a multi-tenant B2B SaaS product
+- Building out my testing practice with Jest, Supertest, and Playwright
+- Working with LLM APIs (Gemini) to add practical AI features to web apps
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark)
+
+**Backend**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi&theme=dark)
+
+**Data and infrastructure**
+
+![Data](https://skillicons.dev/icons?i=postgres,prisma,redis,docker,vercel&theme=dark)
+
+**Testing and tools**
+
+![Tools](https://skillicons.dev/icons?i=jest,playwright,githubactions,git,github,figma&theme=dark)
+
+---
+
+## Selected Work
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**ClaspCRM**](https://github.com/ronniiii-i/ClaspCRM) | A multi-tenant CRM, in active development toward a B2B SaaS product. Tenant isolation with PostgreSQL row-level security, role-based access across four permission tiers, department-scoped dashboards, and CI in GitHub Actions. | Next.js, NestJS, Prisma, PostgreSQL, Redis, Jest, Playwright |
+| [**Task Management API**](https://github.com/ronniiii-i/task-management-api) | A REST API with a controller, service, and repository structure, Zod validation, pagination and filtering, centralised error handling, and automated tests for invalid input and missing records. | Express, TypeScript, Prisma, Jest, Supertest |
+| **Real-Time Voice Translation** | A voice translation pipeline that runs entirely on locally hosted models: voice activity detection, speech-to-text, machine translation, and speech synthesis, streamed to a web client. Containerised and deployed on Hugging Face Spaces. | Python, FastAPI, PyTorch, Docker, React, TypeScript, WebSockets |
+| **ReqGen** | A tool that turns free-form user stories into structured software requirements, using a multi-turn Gemini conversation to ask for missing details. | React, Vite, FastAPI, PostgreSQL, Gemini API |
+| [**SnapLog**](https://github.com/ronniiii-i/snaplog) | A Python utility that captures scheduled screenshots and uploads them over SFTP, with configuration kept separate from execution logic. Intended for use with the user's knowledge and consent. | Python, SFTP |
+
+**Frontend craft:** responsive interfaces built from Figma designs, data dashboards with Chart.js and Recharts, and a drag-and-drop to-do app in plain JavaScript. More in my [portfolio](https://roniegbu.vercel.app).
+
+
+---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ronniiii-i&no-bg=false&no-frame=true&theme=oldie&column=9&row=1" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ronniiii-i&hide_title=false&hide_rank=false&show_icons=true&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronniiii-i&show_icons=true&locale=en" alt="ronniiii-i" /></p> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronniiii-i&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+
+### Let's work together
+
+[Portfolio](https://roniegbu.vercel.app) · [LinkedIn](https://www.linkedin.com/in/princess-roni-egbu) · [Email](mailto:ronniiiip@gmail.com)
+
 </div>
-
-###
-
-<img align="right" height="150" src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/princess-roni-egbu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/ronniiii_i" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto:ronniiii@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-Here's a summary of my recent GitHub contributions:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronniiii-i/git-tracker/main/tracker-dark.svg">
-  <img src="https://raw.githubusercontent.com/ronniiii-i/git-tracker/main/tracker-light.svg" alt="GitHub Activity Tracker" width="6000">
-</picture>
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronniiii-i&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
