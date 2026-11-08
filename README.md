@@ -25,7 +25,7 @@ I'm a full-stack developer with a B.Sc. in Software Engineering from Babcock Uni
 
 - Developing **ClaspCRM** into a multi-tenant B2B SaaS product
 - Building out my testing practice with Jest, Supertest, and Playwright
-- Working with LLM APIs (Gemini) to add practical AI features to web apps
+- Working with LLM APIs to add practical AI features to web apps
 
 ---
 
@@ -46,21 +46,6 @@ I'm a full-stack developer with a B.Sc. in Software Engineering from Babcock Uni
 **Testing and tools**
 
 ![Tools](https://skillicons.dev/icons?i=jest,playwright,githubactions,git,github,figma&theme=dark)
-
----
-
-## Selected Work
-
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [**ClaspCRM**](https://github.com/ronniiii-i/ClaspCRM) | A multi-tenant CRM, in active development toward a B2B SaaS product. Tenant isolation with PostgreSQL row-level security, role-based access across four permission tiers, department-scoped dashboards, and CI in GitHub Actions. | Next.js, NestJS, Prisma, PostgreSQL, Redis, Jest, Playwright |
-| [**Task Management API**](https://github.com/ronniiii-i/task-management-api) | A REST API with a controller, service, and repository structure, Zod validation, pagination and filtering, centralised error handling, and automated tests for invalid input and missing records. | Express, TypeScript, Prisma, Jest, Supertest |
-| **Real-Time Voice Translation** | A voice translation pipeline that runs entirely on locally hosted models: voice activity detection, speech-to-text, machine translation, and speech synthesis, streamed to a web client. Containerised and deployed on Hugging Face Spaces. | Python, FastAPI, PyTorch, Docker, React, TypeScript, WebSockets |
-| **ReqGen** | A tool that turns free-form user stories into structured software requirements, using a multi-turn Gemini conversation to ask for missing details. | React, Vite, FastAPI, PostgreSQL, Gemini API |
-| [**SnapLog**](https://github.com/ronniiii-i/snaplog) | A Python utility that captures scheduled screenshots and uploads them over SFTP, with configuration kept separate from execution logic. Intended for use with the user's knowledge and consent. | Python, SFTP |
-
-**Frontend craft:** responsive interfaces built from Figma designs, data dashboards with Chart.js and Recharts, and a drag-and-drop to-do app in plain JavaScript. More in my [portfolio](https://roniegbu.vercel.app).
-
 
 ---
 
